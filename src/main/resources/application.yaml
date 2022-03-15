@@ -1,0 +1,9 @@
+property:
+  inputFileName: INPUT.TXT
+  outputFileName: OUTPUT.TXT
+  punctuationCharacters: \pP
+  vowels: AeIoUy
+  averagePrecision: 2
+  averageRoundingMode: HALF_UP
+
+
